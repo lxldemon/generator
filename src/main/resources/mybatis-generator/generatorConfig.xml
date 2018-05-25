@@ -34,8 +34,8 @@
 		</plugin>
 
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
-			connectionURL="jdbc:mysql://rm-bp1h9c2mt986x9067wo.mysql.rds.aliyuncs.com:3306/cm_test?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=true"
-			userId="yunbao" password="20171221!cartmall#" />
+			connectionURL="jdbc:mysql://127.0.0.1:3306/cm_test?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=true"
+			userId="root" password="root" />
 		<javaModelGenerator targetPackage="com.yunbao.cartmall.repo.model"
 			targetProject="src/main/java" />
 
