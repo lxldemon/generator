@@ -1,0 +1,1 @@
+eclipse maven Mybatis 自动生成dao model mapper 插件
